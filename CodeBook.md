@@ -2,6 +2,12 @@
 
 This code book explains the data elements of output file meanData.txt
 
+## Transformation
+
+*	All dashes have been removed from measurement variables
+*	All "()" have been removed from measurement variables
+*	std and mean sub-strings have been substituted to Std and Mean
+
 ## Identifiers
 * Subject - The numeric ID of the test subject
 * ActivityName - The type of activity performed
